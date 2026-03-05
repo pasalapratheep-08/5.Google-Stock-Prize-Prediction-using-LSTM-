@@ -123,5 +123,5 @@ pip install -r requirements.txt
 
 # 👨‍💻 Author
 
-Your Name  
+Pasala Pratheep
 Machine Learning Project
